@@ -19,6 +19,7 @@ function НАЗВАНИЕ_ТЕМЫ_setup() {
 		)
 	);
 }
+
 add_action( 'after_setup_theme', 'НАЗВАНИЕ_ТЕМЫ_setup' );
 function НАЗВАНИЕ_ТЕМЫ_scripts() {
 
